@@ -22,4 +22,4 @@ test run......
 - SEO Plugin
 
 ## Contact
-Email me, [tom@tomjack.ca](mailto:tom@tomjack.ca).
+Email me, [kaizokutenshodo@gmail.com].
