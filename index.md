@@ -4,14 +4,12 @@ title: LightSpeed Contact
 ---
 
 ## About
-LightSpeed is a lightweight Jekyll theme designed to be privacy-friendly (~~no~~ _very little_ JavaScript), fast, and
-excellent at delivering content.
+Tim's blog for information, ideas, planning, and development. 
 
 ## About, Further
-This second section demonstrates spacing. CSS is kept to a minimum with minor styling
-for site colours and spacing. prism.js is used for code styling.    
+Brainstorming here   
 <br>
-Here's a new paragraph for you.  
+test run......
 
 ## Features
 - Pagination
