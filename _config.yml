@@ -1,8 +1,8 @@
 # Site Specific Configuration
-name: LightSpeed
-description: A simple Jekyll theme
+name: daily caffeinated
+description: blog by Timothy C Allen Jr.
 url: https://example.com
-author: tajacks
+author: Timothy Chambers Allen Jr.
 timezone: America/Toronto
 timezone_short: ET
 
